@@ -23,3 +23,7 @@ A programme for digitalize Food Legislation. 一个食品法规数字化项目�
 ## 使用方法
 
 - 请pull整个库或者下载整个库的zip文件。
+
+## 应用
+
+在Notion中建立法规数据库：https://www.notion.so/2e08910c52758116abc9f6db9a90ae47?v=2e08910c5275812eb8b3000c9d079603&source=copy_link
