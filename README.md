@@ -35,7 +35,7 @@ A programme for digitalize Food Legislation. 一个食品法规数字化项目�
 
 ### Ragflow
 
-按照观法教程部署好以后，将所有文件上传至知识库就行了，注意配置好文件类型、自由度等参数。
+按照官方教程部署好以后，将所有文件上传至知识库就行了，注意配置好文件类型、自由度等参数。
 
 ### Notion
 
@@ -45,12 +45,6 @@ A programme for digitalize Food Legislation. 一个食品法规数字化项目�
 
 - 需要魔法上网
 - 无法渲染html代码
-
-- [Notion]([Notion](https://www.notion.so/2e08910c52758116abc9f6db9a90ae47?v=2e08910c5275812eb8b3000c9d079603))：html表格无法正确渲染，只能显示为代码
-
-- [Google NotebookLM](https://notebooklm.google.com/notebook/5676c005-e2a8-4f22-a236-90cb25e275d6)：完全无法显示html表格
-
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow)：可以正确显示html表格
 
 <img width="1080" height="1260" alt="image" src="https://github.com/user-attachments/assets/5e51ce98-caa9-4e94-acba-384217ef5182" />
 
